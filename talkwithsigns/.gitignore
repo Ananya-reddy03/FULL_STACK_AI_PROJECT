@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.h5
+
+# React build
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+.vercel
